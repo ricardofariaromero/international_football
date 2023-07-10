@@ -1,0 +1,312 @@
+country_id;countries
+1;Åland Islands
+2;Abkhazia
+3;Afghanistan
+4;Albania
+5;Alderney
+6;Algeria
+7;American Samoa
+8;Andalusia
+9;Andorra
+10;Angola
+11;Anguilla
+12;Antigua and Barbuda
+13;Arameans Suryoye
+14;Argentina
+15;Armenia
+16;Artsakh
+17;Aruba
+18;Asturias
+19;Australia
+20;Austria
+21;Azerbaijan
+22;Bahamas
+23;Bahrain
+24;Bangladesh
+25;Barawa
+26;Barbados
+27;Basque Country
+28;Belarus
+29;Belgium
+30;Belize
+31;Benin
+32;Bermuda
+33;Bhutan
+34;Bolivia
+35;Bonaire
+36;Bosnia and Herzegovina
+37;Botswana
+38;Brazil
+39;British Virgin Islands
+40;Brittany
+41;Brunei
+42;Brunei Darussalam
+43;Bulgaria
+44;Burkina Faso
+45;Burundi
+46;Cambodia
+47;Cameroon
+48;Canada
+49;Canary Islands
+50;Cape Verde
+51;Cascadia
+52;Catalonia
+53;Cayman Islands
+54;Central African Republic
+55;Central Spain
+56;Chad
+57;Chagos Islands
+58;Chameria
+59;Chile
+60;China PR
+61;Colombia
+62;Comoros
+63;Congo
+64;Cook Islands
+65;Corsica
+66;Costa Rica
+67;County of Nice
+68;Crimea
+69;Croatia
+70;Cuba
+71;Curaçao
+72;Cyprus
+73;Czech Republic
+74;Czechoslovakia
+75;Darfur
+76;Denmark
+77;Djibouti
+78;Dominica
+79;Dominican Republic
+80;DR Congo
+81;Ecuador
+82;Egypt
+83;El Salvador
+84;Ellan Vannin
+85;England
+86;Equatorial Guinea
+87;Eritrea
+88;Estonia
+89;Eswatini
+90;Ethiopia
+91;Falkland Islands
+92;Faroe Islands
+93;Felvidék
+94;Fiji
+95;Finland
+96;Frøya
+97;France
+98;French Guiana
+99;Gabon
+100;Găgăuzia
+101;Galicia
+102;Gambia
+103;Georgia
+104;German DR
+105;Germany
+106;Ghana
+107;Gibraltar
+108;Gotland
+109;Gozo
+110;Greece
+111;Greenland
+112;Grenada
+113;Guadeloupe
+114;Guam
+115;Guatemala
+116;Guernsey
+117;Guinea
+118;Guinea-Bissau
+119;Guyana
+120;Haiti
+121;Hitra
+122;Honduras
+123;Hong Kong
+124;Hungary
+125;Iceland
+126;India
+127;Indonesia
+128;Iran
+129;Iraq
+130;Iraqi Kurdistan
+131;Isle of Man
+132;Isle of Wight
+133;Israel
+134;Italy
+135;Ivory Coast
+136;Jamaica
+137;Japan
+138;Jersey
+139;Jordan
+140;Kárpátalja
+141;Kabylia
+142;Kazakhstan
+143;Kenya
+144;Kernow
+145;Kiribati
+146;Kosovo
+147;Kuwait
+148;Kyrgyzstan
+149;Laos
+150;Latvia
+151;Lebanon
+152;Lesotho
+153;Liberia
+154;Libya
+155;Liechtenstein
+156;Lithuania
+157;Luxembourg
+158;Macau
+159;Madagascar
+160;Madrid
+161;Malawi
+162;Malaysia
+163;Maldives
+164;Mali
+165;Malta
+166;Manchukuo
+167;Martinique
+168;Matabeleland
+169;Mauritania
+170;Mauritius
+171;Mayotte
+172;Menorca
+173;Mexico
+174;Micronesia
+175;Moldova
+176;Monaco
+177;Mongolia
+178;Montenegro
+179;Montserrat
+180;Morocco
+181;Mozambique
+182;Myanmar
+183;Namibia
+184;Nepal
+185;Netherlands
+186;New Caledonia
+187;New Zealand
+188;Nicaragua
+189;Niger
+190;Nigeria
+191;Niue
+192;North Korea
+193;North Macedonia
+194;North Vietnam
+195;Northern Cyprus
+196;Northern Ireland
+197;Northern Mariana Islands
+198;Norway
+199;Occitania
+200;Oman
+201;Orkney
+202;Padania
+203;Pakistan
+204;Palau
+205;Palestine
+206;Panama
+207;Panjab
+208;Papua New Guinea
+209;Paraguay
+210;Parishes of Jersey
+211;Peru
+212;Philippines
+213;Poland
+214;Portugal
+215;Provence
+216;Puerto Rico
+217;Qatar
+218;Réunion
+219;Raetia
+220;Republic of Ireland
+221;Republic of St. Pauli
+222;Rhodes
+223;Romani people
+224;Romania
+225;Russia
+226;Rwanda
+227;Sápmi
+228;São Tomé and Príncipe
+229;Saare County
+230;Saarland
+231;Saint Helena
+232;Saint Kitts and Nevis
+233;Saint Lucia
+234;Saint Martin
+235;Saint Pierre and Miquelon
+236;Saint Vincent and the Grenadines
+237;Samoa
+238;San Marino
+239;Sark
+240;Saudi Arabia
+241;Scotland
+242;Senegal
+243;Serbia
+244;Seychelles
+245;Shetland
+246;Sierra Leone
+247;Silesia
+248;Singapore
+249;Sint Maarten
+250;Slovakia
+251;Slovenia
+252;Solomon Islands
+253;Somalia
+254;Somaliland
+255;South Africa
+256;South Korea
+257;South Ossetia
+258;South Sudan
+259;Spain
+260;Sri Lanka
+261;Sudan
+262;Suriname
+263;Surrey
+264;Sweden
+265;Switzerland
+266;Syria
+267;Székely Land
+268;Tahiti
+269;Taiwan
+270;Tajikistan
+271;Tamil Eelam
+272;Tanzania
+273;Thailand
+274;Tibet
+275;Timor-Leste
+276;Togo
+277;Tonga
+278;Trinidad and Tobago
+279;Tunisia
+280;Turkey
+281;Turkmenistan
+282;Turks and Caicos Islands
+283;Tuvalu
+284;Two Sicilies
+285;Uganda
+286;Ukraine
+287;United Arab Emirates
+288;United Koreans in Japan
+289;United States
+290;United States Virgin Islands
+291;Uruguay
+292;Uzbekistan
+293;Vanuatu
+294;Vatican City
+295;Venezuela
+296;Vietnam
+297;Vietnam Republic
+298;Wales
+299;Wallis Islands and Futuna
+300;Western Armenia
+301;Western Australia
+302;Western Isles
+303;Western Sahara
+304;Yemen
+305;Yemen DPR
+306;Ynys Môn
+307;Yorkshire
+308;Yugoslavia
+309;Zambia
+310;Zanzibar
+311;Zimbabwe
